@@ -5,6 +5,20 @@
       "comment": "hello"
     }
   ],
+    "comments": [
+    {
+      "id": 1,
+      "comment": "hello"
+    },
+    {
+      "id": 2,
+      "comment": "hello some text"
+    },
+    {
+      "id": 3,
+      "comment": "hello some more text"
+    }
+  ],
   "profile": {
     "name": "test"
   }
