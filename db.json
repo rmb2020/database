@@ -20,6 +20,8 @@
     }
   ],
   "profile": {
-    "name": "test"
+    "name": "Harmony"
+    "email": "harmony@someemail.com"
+    "phone": 123456789
   }
 }
