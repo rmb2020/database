@@ -19,9 +19,7 @@
       "comment": "hello some more text blandit non interdum in ante vestibulum ante ipsum primis in"
     }
   ],
-  "profile": {
-    "name": "Harmony",
-    "email": "harmony@someemail.com",
-    "phone": 123456789
+  "profile": {   
+    "name": "test"
   }
 }
